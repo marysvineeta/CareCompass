@@ -66,7 +66,7 @@ fun MedicationScreen(navController: NavController, viewModel: MedicationViewMode
                 onClick = {
                     if (name.isNotBlank() && time.isNotBlank()) {
                         viewModel.addMedication(name, time)
-                        Toast.makeText(context, "Appointment added!", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(context, "Medication added!", Toast.LENGTH_SHORT).show()
                         name = ""
                         time = ""
                     }

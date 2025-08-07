@@ -72,7 +72,7 @@ fun NotesScreen(navController: NavController, viewModel: NotesViewModel = viewMo
                 onClick = {
                     if (title.isNotBlank()) {
                         viewModel.addNote(title, content)
-                        Toast.makeText(context, "Appointment added!", Toast.LENGTH_SHORT).show()
+                        Toast.makeText(context, "Note added!", Toast.LENGTH_SHORT).show()
                         title = ""
                         content = ""
                     }
