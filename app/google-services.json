@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195995785604",
+    "project_id": "arecompass-cdbf7",
+    "storage_bucket": "arecompass-cdbf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195995785604:android:95963ac76bdd255177e5d1",
+        "android_client_info": {
+          "package_name": "com.example.carecompass"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEbcqnKn9cZtCGpoPRNw94SWcojuJInsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
