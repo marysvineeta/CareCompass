@@ -33,7 +33,7 @@ fun DashboardScreen(navController: NavController) {
         ) {
 
             Text(
-                text = "Welcome to Care Compass Dashboard!",
+                text = "Welcome to Care Compass!",
                 style = MaterialTheme.typography.headlineSmall,
                 fontSize = 20.sp,
                 modifier = Modifier.padding(bottom = 16.dp)
